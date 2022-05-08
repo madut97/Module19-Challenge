@@ -1,4 +1,7 @@
 # FinTech Candidate Finder
+
+This is an application which helps you find FinTech proffessionals and pay them their wages in cryptocurrenncies on the Ethereum blockchain networks. 
+
 ---
 ## Technologies Used:
 
@@ -10,6 +13,6 @@
 
 # Images:
 
-![account]()
+![account](https://github.com/madut97/Module19-Challenge/blob/main/transactions_page_1.png)
 
-![transaction_details]()
+![transaction_details](https://github.com/madut97/Module19-Challenge/blob/main/transaction_page_2.png)
